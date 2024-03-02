@@ -2,8 +2,8 @@
 <div align="center">
 
   <img src="https://reserve-cloud.storage.iran.liara.space/luxury%20hotel%20vector%20material_3096750.png" alt="logo" width="200" height="auto" />
-  <h1>Judicatory expert wage calculator</h1>
-  <p>This app helps calculate the wages of judicial experts based on the latest regulations for the year. It's designed to simplify the process of determining how much these experts should be paid according to the current rules and standards. With this app, users can input relevant information and quickly get accurate calculations for wages, making it easier to ensure fairness and compliance with legal requirements in compensating judicial experts for their work. </p>
+  <h1>Hotel Reservation System</h1>
+  <p>Our web application is a dedicated platform for company personnel to reserve hotel rooms efficiently. Built with Node.js and MongoDB, it ensures a streamlined booking process, enhancing transaction speed and database performance. The application is designed to be user-friendly, accommodating both desktop and mobile devices. It leverages the MVC architecture for code organization and Getx State Management for state management, ensuring a smooth and intuitive user experience. Additionally, an internal payment system has been implemented, offering a cost-effective solution for transactions. This platform aims to simplify hotel bookings for company personnel, providing a reliable and efficient service. </p>
   <p style="color: red;"> We are unable to share the code as it was developed under a contract that specifies the rights to the code remain with the client.</p>
   
   
@@ -35,6 +35,20 @@
 </details>
 
 
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://nodejs.org/en">Node.js</a></li>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+  </ul>
+</details>
 
 
 
