@@ -18,7 +18,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
- <img src="https://reserve-cloud.storage.iran.liara.space/luxury%20hotel%20vector%20material_3096750.png" />
+ <img src="https://reserve-cloud.storage.iran.liara.space/reservation%20mockup.png" />
 </div>
 
 
