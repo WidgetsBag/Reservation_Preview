@@ -18,7 +18,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
- <img src="https://amazone-clone.storage.iran.liara.space/karshenasi.png" alt="screenshot" />
+ <img src="https://reserve-cloud.storage.iran.liara.space/luxury%20hotel%20vector%20material_3096750.png" />
 </div>
 
 
